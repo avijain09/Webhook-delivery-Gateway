@@ -4,5 +4,6 @@ public enum WebhookStatus {
     RECEIVED,
     PROCESSING,
     DELIVERED,
-    FAILED
+    FAILED,
+    RETRYING
 }
